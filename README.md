@@ -15,3 +15,8 @@ The analysis are:
 * Coordinates (Dim 1 and Dim 2) of each point are then extracted and represented against the distance to the coast
 * Linear interpolation of the chlorphyll a shows the Deep Chlorophyll Maximum (around 50m depth)
 * The clustering shows the inshore-offshore differentiation of the different stations
+
+
+## Interneship: spatio-temporal recruitment of *Sicypterus lagocephalus*, amphidromous Gobiddae of the Indian Ocean ([BOREA](https://borea.mnhn.fr/),[MNHN](https://www.mnhn.fr/), [LOCEAN](https://www.locean-ipsl.upmc.fr/index.php?lang=fr))
+
+This poster and this rapport resume the 2 months internship of my MSc first year. Statistical Analysis (ANOVA and posthoc tests) were made on Pealgic Larval Duration (PLD), determined by otolithometry. The recruitment phase is crutial because it is a this life stage that this species is targeted by the local fishermen. The goal here was to assess spatial (rivers) and temporal (seasons and year) differences of this PLD. Then, backward larval dispersion was modelled (ICHTHYOP model) in order to observe potential spawning rivers.   
