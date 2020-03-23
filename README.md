@@ -4,7 +4,7 @@ Posters and documents
 
 ## Trends in Biological Oceanography
 
-
+[Temporal change of Eutrophication and Hypoxia events in Chesapeake Bay](https://github.com/FrsLry/University_Works/blob/master/Report%20Assigment%20(Francois%2C%20Halle%2C%20Ward%20and%20Esther).pdf) (in collaboration with students from IMBRSea MSc: Esther Cepeda, Halle Feiring & Ward Standaert)
 
 ## MEDO: Methods for the Exploitation of Data in Oceanography (Villefranche-sur-Mer, France)
 
