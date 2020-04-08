@@ -21,6 +21,6 @@ The analysis are:
 * The clustering shows the inshore-offshore differentiation of the different stations
 
 
-## Interneship: spatio-temporal recruitment of *Sicypterus lagocephalus*, amphidromous Gobiddae of the Indian Ocean ([BOREA](https://borea.mnhn.fr/),[MNHN](https://www.mnhn.fr/), [LOCEAN](https://www.locean-ipsl.upmc.fr/index.php?lang=fr))
+## Internship: spatio-temporal recruitment of *Sicypterus lagocephalus*, amphidromous Gobiddae of the Indian Ocean ([BOREA](https://borea.mnhn.fr/),[MNHN](https://www.mnhn.fr/), [LOCEAN](https://www.locean-ipsl.upmc.fr/index.php?lang=fr))
 
 [This poster](https://github.com/FrsLry/Academic_Works/blob/master/poster_LEROY_Francois_compressed.pdf) and [This report](https://github.com/FrsLry/Academic_Works/blob/master/Rendu_M1_LEROY_Francois.pdf) resume the 2 months internship of my MSc first year. Statistical Analysis (ANOVA and posthoc tests) were made on Pealgic Larval Duration (PLD), determined by otolithometry. The recruitment phase is crutial because it is a this life stage that this species is targeted by the local fishermen. The goal here was to assess spatial (rivers) and temporal (seasons and year) differences of this PLD. Then, backward larval dispersion was modelled (ICHTHYOP model) in order to observe potential spawning rivers.   
